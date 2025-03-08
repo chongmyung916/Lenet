@@ -1,2 +1,2 @@
 # Lenet
-lenet model로 benign / malignant analysis
+lenet model로 benign / malanoma analysis
